@@ -10,7 +10,7 @@ Latest Version: **``4.27.2-18319896+++UE4+Release-4.27-FPSSteamGame``**
 # Changes
 
 ## 4.27.2-18319896+++UE4+Release-4.27-FPSSteamGame
-### SDK: [4.27.2-18319896+++UE4+Release-4.27-FPSSteamGame](https://github.com/SternI/FortniteOffsets/blob/master/SDK/5.6.0-44118662+++Fortnite+Release-36.20.zip)
+### SDK: [4.27.2-18319896+++UE4+Release-4.27-FPSSteamGame](https://github.com/metixud/fpsgamedevtestsdk/blob/main/sdk/4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27-FPSSteamGame.rar)
 ### Some Offsets
 ```yaml
 Found FChunkedFixedUObjectArray GObjects at offset 0x4a38a50
